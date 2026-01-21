@@ -1,13 +1,20 @@
 ---
-title: Home   # Title of the page, which will be displayed in the navigation and the browser title.
-layout: page  # Layout type, usually 'page' for standard pages.
-nav_order: 1  # Order in the navigation menu.
-description:  # A brief description of the page for SEO purposes.
-permalink: /  # Optional: Custom URL for the page. It will serve as the slug. For example, /home/
-created_date:  # Date when the page was created. Should be in YYYY-MM-DD format.
-has_children: False  # Set to True if the page has sub-pages.
+title: "Workshop Recording: Introduction to R (Dec. 8, 2020)"
+layout: "home"
+description: ""
+permalink: "/"  #! Remove this if not the homepage
 ---
 
-# Just the docs template
+# Workshop Recording: Introduction to R (Dec. 8, 2020)
 
-See the <a href="https://mdlutoronto.github.io/jtd-edit-setup/docs/create-new-guide/" target="_blank"> Create a New Guide</a> page to get started with creating your own guide!
+This page provides a video recording of an introductory workshop on using the R statistical programming language.
+
+**Workshop Description:**
+
+This is a hands\-on workshop that introduces the R statistical programming language using RStudio. The topics covered are importing, exploring and modifying a dataset. It is most suitable for new R users or users looking to review their knowledge in R. Offered as an [online self\-paced course](https://q.utoronto.ca/enroll/ET679B) (Self\-enroll with your UTORID. If you don't have one, contact us) and also as a live online session \- see the "[upcoming events](https://mdl.library.utoronto.ca/support/workshops-and-training)" listing for schedule information.
+
+[R](https://www.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/) are open\-source and can be downloaded from their respective websites.
+
+[**Recording \- 43:53**](https://play.library.utoronto.ca/watch/23a9188c87a752c5aa2cdd79a4971eb8)
+
+Technique: [Data Visualization](/technique/data-visualization), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [R](/tools/r-0)**Date Created:** 2025\-01\-28**Updated:** 2025\-01\-28
