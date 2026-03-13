@@ -1,8 +1,11 @@
 ---
 title: "Workshop Recording: Introduction to R (Dec. 8, 2020)"
 layout: "home"
-description: ""
+description: "This page provides a video recording of an introductory workshop on using the R statistical programming language."
 permalink: "/"  #! Remove this if not the homepage
+staff:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
 ---
 
 # Workshop Recording: Introduction to R (Dec. 8, 2020)
@@ -17,4 +20,6 @@ This is a hands\-on workshop that introduces the R statistical programming langu
 
 [**Recording \- 43:53**](https://play.library.utoronto.ca/watch/23a9188c87a752c5aa2cdd79a4971eb8)
 
-Technique: [Data Visualization](/technique/data-visualization), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [R](/tools/r-0)**Date Created:** 2025\-01\-28**Updated:** 2025\-01\-28
+Technique: [Data Visualization](/technique/data-visualization), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [R](/tools/r-0)
+
+**Date Created:** 2025\-01\-28 **Updated:** 2025\-01\-28
