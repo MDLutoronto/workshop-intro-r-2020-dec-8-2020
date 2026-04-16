@@ -23,6 +23,6 @@ This is a hands\-on workshop that introduces the R statistical programming langu
 
 [**Recording \- 43:53**](https://play.library.utoronto.ca/watch/23a9188c87a752c5aa2cdd79a4971eb8)
 
-Technique: [Data Visualization](/technique/data-visualization), [Cleaning data](/technique/cleaning-data), [Extracting data](/technique/extracting-data) \| Tools: [R](/tools/r-0)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R)
 
 **Date Created:** 2025\-01\-28 **Updated:** 2025\-01\-28
