@@ -9,6 +9,7 @@ staff:
 maintainer:
  - name: Nadia Muhe
    link: https://library.utoronto.ca/staff/nadia-muhe
+created_date: 2025-01-28
 ---
 
 # Workshop Recording: Introduction to R (Dec. 8, 2020)
@@ -17,12 +18,11 @@ This page provides a video recording of an introductory workshop on using the R 
 
 **Workshop Description:**
 
-This is a hands\-on workshop that introduces the R statistical programming language using RStudio. The topics covered are importing, exploring and modifying a dataset. It is most suitable for new R users or users looking to review their knowledge in R. Offered as an [online self\-paced course](https://q.utoronto.ca/enroll/ET679B) (Self\-enroll with your UTORID. If you don't have one, contact us) and also as a live online session \- see the "[upcoming events](https://mdl.library.utoronto.ca/support/workshops-and-training)" listing for schedule information.
+This is a hands-on workshop that introduces the R statistical programming language using RStudio. The topics covered are importing, exploring and modifying a dataset. It is most suitable for new R users or users looking to review their knowledge in R. Offered as an [online self-paced course](https://q.utoronto.ca/enroll/ET679B) (Self-enroll with your UTORID. If you don't have one, contact us) and also as a live online session - see the "[upcoming events](https://mdl.library.utoronto.ca/support/workshops-and-training)" listing for schedule information.
 
-[R](https://www.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/) are open\-source and can be downloaded from their respective websites.
+[R](https://www.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/) are open-source and can be downloaded from their respective websites.
 
-[**Recording \- 43:53**](https://play.library.utoronto.ca/watch/23a9188c87a752c5aa2cdd79a4971eb8)
+[**Recording - 43:53**](https://play.library.utoronto.ca/watch/23a9188c87a752c5aa2cdd79a4971eb8)
+<iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/23a9188c87a752c5aa2cdd79a4971eb8" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
-**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R)
-
-**Date Created:** 2025\-01\-28 **Updated:** 2025\-01\-28
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) | **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R)
