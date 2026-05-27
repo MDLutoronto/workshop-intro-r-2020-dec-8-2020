@@ -3,12 +3,9 @@ title: "Workshop Recording: Introduction to R (Dec. 8, 2020)"
 layout: "home"
 description: "This page provides a video recording of an introductory workshop on using the R statistical programming language."
 permalink: "/"  #! Remove this if not the homepage
-staff:
- - name: Nadia Muhe
-   link: https://library.utoronto.ca/staff/nadia-muhe
 maintainer:
- - name: Nadia Muhe
-   link: https://library.utoronto.ca/staff/nadia-muhe
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
 created_date: 2025-01-28
 ---
 
@@ -25,4 +22,4 @@ This is a hands-on workshop that introduces the R statistical programming langua
 [**Recording - 43:53**](https://play.library.utoronto.ca/watch/23a9188c87a752c5aa2cdd79a4971eb8)
 <iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/23a9188c87a752c5aa2cdd79a4971eb8" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
-**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) | **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R)
