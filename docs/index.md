@@ -15,7 +15,7 @@ This page provides a video recording of an introductory workshop on using the R 
 
 **Workshop Description:**
 
-This is a hands-on workshop that introduces the R statistical programming language using RStudio. The topics covered are importing, exploring and modifying a dataset. It is most suitable for new R users or users looking to review their knowledge in R. Offered as an [online self-paced course](https://q.utoronto.ca/enroll/ET679B) (Self-enroll with your UTORID. If you don't have one, contact us) and also as a live online session - see the "[upcoming events](https://mdl.library.utoronto.ca/support/workshops-and-training)" listing for schedule information.
+This is a hands-on workshop that introduces the R statistical programming language using RStudio. The topics covered are importing, exploring and modifying a dataset. It is most suitable for new R users or users looking to review their knowledge in R. Offered as an [online self-paced course](https://q.utoronto.ca/enroll/ET679B) (Self-enroll with your UTORID. If you don't have one, contact us) and also as a live online session - see the "[upcoming events](https://library.utoronto.ca/use/service/mdl-workshops)" listing for schedule information.
 
 [R](https://www.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/) are open-source and can be downloaded from their respective websites.
 
